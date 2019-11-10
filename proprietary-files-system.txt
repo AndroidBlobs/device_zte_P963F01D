@@ -1,0 +1,4 @@
+-priv-app/ims/ims.apk
+etc/nfcee_access.xml
+etc/permissions/com.nxp.nfc.xml
+framework/com.nxp.nfc.jar
